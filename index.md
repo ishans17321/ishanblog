@@ -23,9 +23,15 @@ I love to code for fun, and know Python Java, Bash, Javascript
 My extra Cirricular Activities consist of:
 
 CyberPatriot (Nation Champion, 1st place)
+
 USACO (USA Computing Olympiad) (Internationals Qulifier)
+
 ACSL (American Computer Science League) (Did Exception in Nationals)
+
 DECA
+
 Basketball
+
 Badminton
+
 Violin

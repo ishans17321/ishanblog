@@ -20,18 +20,18 @@ My classes consist of :
 I plan on pursueing Computer Science as a Major
 I love to code for fun, and know Python Java, Bash, Javascript
 
-My extra Cirricular Activities consist of:
+* My extra Cirricular Activities consist of:
 
-CyberPatriot (Nation Champion, 1st place)
+* CyberPatriot (Nation Champion, 1st place)
 
-USACO (USA Computing Olympiad) (Internationals Qulifier)
+* USACO (USA Computing Olympiad) (Internationals Qulifier)
 
-ACSL (American Computer Science League) (Did Exception in Nationals)
+* ACSL (American Computer Science League) (Did Exception in Nationals)
 
-DECA
+*DECA
 
-Basketball
+* Basketball
 
-Badminton
+* Badminton
 
-Violin
+* Violin

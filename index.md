@@ -36,4 +36,7 @@ I love to code for fun, and know Python Java, Bash, Javascript
 
 
 
-<img src="img.jpg" alt="Name of pic">
+<img src="bask.jpg" alt="bball">
+<img src="vio.jpg" alt="violin">
+<img src="badm.jpg" alt="badminton">
+<img src="cc.jpg" alt="Cybersecurity">

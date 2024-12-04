@@ -33,3 +33,7 @@ I love to code for fun, and know Python Java, Bash, Javascript
 * Badminton
 
 * Violin
+
+
+
+<img src="img.jpg" alt="Name of pic">

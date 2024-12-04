@@ -36,7 +36,7 @@ I love to code for fun, and know Python Java, Bash, Javascript
 
 
 
-<img src="bask.jpg" alt="bball">
-<img src="vio.jpg" alt="violin">
-<img src="badm.jpg" alt="badminton">
-<img src="cc.jpg" alt="Cybersecurity">
+<img src="images/bask.png" alt="bball">
+<img src="images/vio.png" alt="violin">
+<img src="images/badm.png" alt="badminton">
+<img src="images/cc.png" alt="Cybersecurity">

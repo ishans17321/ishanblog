@@ -34,6 +34,8 @@ I love to code for fun, and know Python Java, Bash, Javascript
 
 * Violin
 
+* Watching Stephen Curry Hoop
+
 
 
 <img src="images/bask.png" alt="bball">

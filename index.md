@@ -6,6 +6,7 @@ hide: true
 ---
 
 My name is Ishan Shrivastava, I am very intrigued by computer science and I have a lot of hobbies that I enjoy
+I have visited most of Europe, and I am from India, and enjoy going there on vacation
 
 
 <a href="https://ishans17321.github.io/ishanblog/devops/tools/verify" target="_blank" style="text-decoration:none;">
@@ -14,8 +15,8 @@ My name is Ishan Shrivastava, I am very intrigued by computer science and I have
     </button>
 </a>
 
-My classes consist of :
-
+*My classes consist of :
+I am a CyberPatriot National Champion
 1. Math 3A 
 2. ENS 2
 3. CompSci

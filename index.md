@@ -7,11 +7,10 @@ hide: true
 
 My name is Ishan Shrivastava, I am very intrigued by computer science and I have a lot of hobbies that I enjoy
 
-Click the button below to find out my favorite website!
 
-<a href="https://nba.com" target="_blank" style="text-decoration:none;">
+<a href="https://ishans17321.github.io/ishanblog/devops/tools/verify" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; background-color:#ADD8E6; color:black; border:none; border-radius:5px; cursor:pointer;">
-        Click Me!!!!!
+        Tools Verify
     </button>
 </a>
 

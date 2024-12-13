@@ -14,6 +14,12 @@ I have visited most of Europe, and I am from India, and enjoy going there on vac
         Tools Verify
     </button>
 </a>
+<a href="https://ishans17321.github.io/ishanblog/snake/" target="_blank" style="text-decoration:none;">
+    <button style="padding:10px 20px; background-color:#ADD8E6; color:black; border:none; border-radius:5px; cursor:pointer;">
+        Tools Verify
+    </button>
+</a>
+
 
 *My classes consist of :
 I am a CyberPatriot National Champion

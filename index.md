@@ -11,7 +11,8 @@ I have visited most of Europe, and I am from India, and enjoy going there on vac
 
 <a href="https://ishans17321.github.io/ishanblog/devops/tools/verify" target="_blank" style="text-decoration:none;">
     <button style="padding:10px 20px; background-color:#ADD8E6; color:black; border:none; border-radius:5px; cursor:pointer;">
-        Tools Verify
+        Snake Game
+        
     </button>
 </a>
 <a href="https://ishans17321.github.io/ishanblog/snake/" target="_blank" style="text-decoration:none;">

@@ -89,6 +89,7 @@
         ctx.fillText("🍎", (food.x + 0.5) * blockSize, (food.y + 0.5) * blockSize);
     }
 
+
     function updateSnake() {
         const head = { x: snake[0].x + direction.x, y: snake[0].y + direction.y };
 

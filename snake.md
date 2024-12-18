@@ -338,6 +338,7 @@ permalink: /snake/
                 ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
             }
         };
+        /* Random food placement */
         /////////////////////////////////////////////////////////////
         let addFood = function(){
             food.x = Math.floor(Math.random() * ((canvas.width / BLOCK) - 1));

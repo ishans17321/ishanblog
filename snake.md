@@ -83,10 +83,10 @@
     }
 
     function drawFood() {
-        ctx.fillStyle = "red"; // Apple color
-        ctx.beginPath();
-        ctx.arc((food.x + 0.5) * blockSize, (food.y + 0.5) * blockSize, blockSize / 2, 0, Math.PI * 2);
-        ctx.fill();
+        ctx.font = "20px Arial"; // Set font size for the emoji
+        ctx.textAlign = "center"; // Center the emoji horizontally
+        ctx.textBaseline = "middle"; // Center the emoji vertically
+        ctx.fillText("🍎", (food.x + 0.5) * blockSize, (food.y + 0.5) * blockSize);
     }
 
     function updateSnake() {

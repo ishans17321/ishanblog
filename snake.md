@@ -327,11 +327,17 @@ permalink: /snake/
         }
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
-        let activeDot = function(x, y){
-            ctx.fillStyle = "#FFFFFF";
-            ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
-        }
-        /* Random food placement */
+        let activeDot = function(x, y, isFood = false){
+            if (isFood) {
+                // Draw an apple emoji for the food
+                ctx.font = "20px Arial"; // Set font size for the emoji
+                ctx.fillText("🍎", x * BLOCK, (y + 1) * BLOCK); // Adjust positioning
+            } else {
+                // Draw the snake as a block
+                ctx.fillStyle = "#FFFFFF";
+                ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
+            }
+        };
         /////////////////////////////////////////////////////////////
         let addFood = function(){
             food.x = Math.floor(Math.random() * ((canvas.width / BLOCK) - 1));

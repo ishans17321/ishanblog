@@ -328,14 +328,9 @@ permalink: /snake/
         /* Dot for Food or Snake part */
         /////////////////////////////////////////////////////////////
         let activeDot = function(x, y){
-            ctx.fillStyle = "transparent"; // Ensures the emoji's shape is preserved
-            ctx.clearRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK); // Clear previous block if any
-            ctx.font = `${BLOCK}px Arial`;
-            ctx.textAlign = "center";
-            ctx.textBaseline = "middle";
-            ctx.fillText("🍎", x * BLOCK + BLOCK / 2, y * BLOCK + BLOCK / 2);
+            ctx.fillStyle = "#FFFFFF";
+            ctx.fillRect(x * BLOCK, y * BLOCK, BLOCK, BLOCK);
         }
-
         /* Random food placement */
         /////////////////////////////////////////////////////////////
         let addFood = function(){

@@ -312,7 +312,7 @@ permalink: /snake/
     let altScore = function (score_val) {
         ele_score.innerHTML = String(score_val);
     };
-
+ 
     let setSnakeSpeed = function (speed_value) {
         snake_speed = speed_value;
     };

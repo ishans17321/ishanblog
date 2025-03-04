@@ -52,7 +52,7 @@ permalink: /csse1final/
 </ul>
 <br>
 <h2>N@TM Feedback</h2>
-[text](https://github.com/ishans17321/ishanblog/issues/2)
+[https://github.com/ishans17321/ishanblog/issues/2](https://github.com/ishans17321/ishanblog/issues/2)
 </ul>
 <h2>Other Projects I Found Cool</h2>
 <ul>

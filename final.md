@@ -52,11 +52,7 @@ permalink: /csse1final/
 </ul>
 <br>
 <h2>N@TM Feedback</h2>
-The main points of feedback we recieved fell into one of three main categories (generally speaking)
-<ul>
-    <li>Adding a plot or story in which the questions would be jungle/forest themed.</li>
-    <li>Making sure when you answer a question correctly you would gain a certain amount of increase of balance. Balance would help to escape.</li>
-    <li>Animate the characters and increase chill guy's player speed.</li>
+[text](https://github.com/ishans17321/ishanblog/issues/2)
 </ul>
 <h2>Other Projects I Found Cool</h2>
 <ul>

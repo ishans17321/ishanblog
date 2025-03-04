@@ -93,8 +93,9 @@ The main points of feedback we recieved fell into one of three main categories (
 <h3>Coding Goals</h3>
 <ul>
     <li>Expand game level using above feedback following the plans shown above.</li>
-    <li>Continue learning advanced JS and python skills</li>
-    <li>Applying my computer science, python, and javascript skills to make a bigger project such as as another cool game or a customized webpage with good themes.</li>
+    <li>Win CyberPatriot again</li>
+    <li>Acheieve USACO GOLD</li>
+    <li>Applying my computer science, python, and javascript skills to make a bigger project such as as another cool game or a customized arduino project or using EV3 for fun.</li>
 </ul>
 <h2>Burndowns and Issues</h2>
 <p>I created one issue and 2 burndowns on my personal blog. The burndowns were to hep me track my progress on the adventure game and final exam. The issue was for the javascript homework.</p>
